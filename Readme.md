@@ -58,7 +58,7 @@ The system allows users to:
 **Step 2:** Update the database connection details in app.py
 
 **Step 3:** Run app.py 
-``` streamlit run app.py```
-
-
-
+```
+streamlit run app.py
+```
+> Note: The files you download will get saved in the static folder 
